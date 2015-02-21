@@ -1,2 +1,2 @@
 hello world
-this is cool
+this is cool!
